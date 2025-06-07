@@ -12,13 +12,12 @@ title: 서로의 블로그
 아름다운 노인이 될 거야 ~
 
 title: 아ㅡㄻ다운 말
-layout: default
 ---
 
 <link rel="stylesheet" href="/weloveseoro/assets/css/style.css" />
 
-# 안녕, 여기는 디지털 감정의 숲
+# 안녕, 여기는 디지털 소묘
 
 **<span class="blink">삐-</span>**  
-> 이것은 나만의 감정 기록기.  
+> 
 > 현실과 가상의 사이에서 흐릿해지는 정체성을 붙잡기 위한 장소.
