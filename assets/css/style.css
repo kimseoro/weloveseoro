@@ -1,0 +1,44 @@
+/* 전체 배경 */
+body {
+  background-color: #0b0f14;
+  background-image: url('https://i.imgur.com/q62AOqN.jpeg'); /* VHS 배경 */
+  background-size: cover;
+  background-attachment: fixed;
+  background-blend-mode: overlay;
+  color: #e0e0e0;
+  font-family: 'Courier New', monospace;
+}
+
+/* 아름다운 말 */
+h1, h2, h3 {
+  color: #c5b0ff;
+  text-shadow: 0 0 4px #6236ff;
+}
+
+/* https://www.instagram.com/weloveseoro/ */
+a {
+  color: #8ef9ff;
+  text-decoration: none;
+  border-bottom: 1px dashed #8ef9ff;
+}
+a:hover {
+  color: #ff82cb;
+  border-bottom: 1px dashed #ff82cb;
+}
+
+/* 본문 박스 느낌 */
+main {
+  background: rgba(10, 10, 10, 0.7);
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 0 12px rgba(255,255,255,0.05);
+}
+
+/* 깜빡이는 텍스트 */
+.blink {
+  animation: blink 1.5s infinite;
+}
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
