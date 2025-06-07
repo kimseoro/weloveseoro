@@ -1,7 +1,7 @@
-/* 전체 배경 */
+
 body {
   background-color: #0b0f14;
-  background-image: url('https://i.imgur.com/UYecJ3z.jpeg');
+  background-image: url('https://i.imgur.com/RmynzZ9.jpeg');
   background-size: cover;
   background-attachment: fixed;
   background-blend-mode: overlay;
@@ -9,12 +9,10 @@ body {
   font-family: 'Courier New', monospace;
 }
 
-
 h1, h2, h3 {
   color: #c5b0ff;
   text-shadow: 0 0 4px #6236ff;
 }
-
 
 a {
   color: #8ef9ff;
@@ -26,14 +24,12 @@ a:hover {
   border-bottom: 1px dashed #ff82cb;
 }
 
-
 main {
   background: rgba(10, 10, 10, 0.7);
   padding: 2rem;
   border-radius: 10px;
   box-shadow: 0 0 12px rgba(255,255,255,0.05);
 }
-
 
 .blink {
   animation: blink 1.5s infinite;
